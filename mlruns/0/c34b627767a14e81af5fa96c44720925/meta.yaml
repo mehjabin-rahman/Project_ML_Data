@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nowshad/Sites/Mehjabin/project_ML_Data/Project_ML_Data/mlruns/0/c34b627767a14e81af5fa96c44720925/artifacts
+end_time: 1738787502825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c34b627767a14e81af5fa96c44720925
+run_name: nosy-skunk-918
+run_uuid: c34b627767a14e81af5fa96c44720925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738787502760
+status: 4
+tags: []
+user_id: nowshad
